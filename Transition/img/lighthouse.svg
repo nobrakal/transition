@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="default"
+   width="250"
+   height="250"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="lighthouse.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="1.888"
+     inkscape:cx="46.725391"
+     inkscape:cy="126.55071"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <title
+     id="title2">日本の地図記号 - 灯台</title>
+  <g
+     id="g4539"
+     transform="matrix(0.96544234,0,0,0.96297393,4.3563155,5.893577)">
+    <line
+       style="stroke:#000000;stroke-width:17.88135529px"
+       id="line4"
+       y2="123.41102"
+       x2="63.474575"
+       y1="123.41102"
+       x1="18.771187" />
+    <line
+       style="stroke:#000000;stroke-width:17.88135529px"
+       id="line6"
+       y2="123.41102"
+       x2="233.34746"
+       y1="123.41102"
+       x1="188.64406" />
+    <line
+       style="stroke:#000000;stroke-width:17.88135529px"
+       id="line8"
+       y2="78.707626"
+       x2="81.355934"
+       y1="47.415257"
+       x1="50.06356" />
+    <line
+       style="stroke:#000000;stroke-width:17.88135529px"
+       id="line10"
+       y2="199.40678"
+       x2="202.05508"
+       y1="168.11441"
+       x1="170.76271" />
+    <line
+       style="stroke:#000000;stroke-width:17.88135529px"
+       id="line12"
+       y2="168.11441"
+       x2="81.355934"
+       y1="199.40678"
+       x1="50.06356" />
+    <line
+       style="stroke:#000000;stroke-width:17.88135529px"
+       id="line14"
+       y2="47.415257"
+       x2="202.05508"
+       y1="78.707626"
+       x1="170.76271" />
+    <line
+       style="stroke:#000000;stroke-width:17.88135529px"
+       id="line16"
+       y2="60.826271"
+       x2="126.05933"
+       y1="16.122881"
+       x1="126.05933" />
+    <line
+       style="stroke:#000000;stroke-width:17.88135529px"
+       id="line18"
+       y2="230.69916"
+       x2="126.05933"
+       y1="185.99576"
+       x1="126.05933" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:13.41101742px"
+       id="circle20"
+       r="62.584747"
+       cy="123.41102"
+       cx="126.05933" />
+    <circle
+       style="fill:#000000;stroke-width:0.89406782"
+       id="circle22"
+       r="25.033897"
+       cy="123.41102"
+       cx="126.05933" />
+  </g>
+  <ellipse
+     id="path3722"
+     cx="125.52966"
+     cy="124.73518"
+     rx="121.11953"
+     ry="120.85468"
+     style="fill:none;stroke:#000000;stroke-width:4.87960434;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>
