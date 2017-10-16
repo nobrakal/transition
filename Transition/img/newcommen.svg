@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="95.875305mm"
+   height="95.875305mm"
+   viewBox="0 0 95.875305 95.875305"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
@@ -26,16 +26,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="411.42857"
-     inkscape:cy="548.57143"
+     inkscape:cx="-213.10402"
+     inkscape:cy="82.610263"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="884"
-     inkscape:window-height="629"
-     inkscape:window-x="853"
-     inkscape:window-y="291"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -44,20 +44,30 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.505;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="layer1"
+     transform="translate(-34.083176,-80.862946)">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.84699988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="path4548"
-       ry="74.083336"
-       rx="72.193451"
-       cy="135.98215"
-       cx="104.6994" />
+       cy="128.8006"
+       cx="82.020828"
+       r="46.014153" />
+    <g
+       aria-label="N"
+       transform="matrix(0.26458333,0,0,0.26458333,0.52916667,0)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4506">
+      <path
+         d="m 254.7056,414.02513 98.93333,161.59999 h 23.46666 V 432.42513 c 0.26667,-22.4 3.46667,-27.73334 17.33334,-29.33334 l 6.66666,-0.8 v -8.26666 h -65.86666 v 8.26666 l 9.33333,0.8 c 13.86667,1.6 17.06667,7.2 17.33333,29.33334 V 537.75846 L 274.97226,394.02513 H 215.5056 v 8.26666 l 6.66667,0.8 c 13.86666,1.6 17.06666,6.93334 17.33333,29.33334 v 104.79999 c -0.26667,22.4 -3.46667,27.73334 -17.33333,29.33334 l -6.66667,0.8 v 8.26666 h 65.86666 v -8.26666 l -9.33333,-0.8 c -13.86667,-1.6 -17.06667,-7.2 -17.33333,-29.33334 z"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:266.66665649px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         id="path817" />
+    </g>
   </g>
 </svg>
