@@ -1,4 +1,4 @@
-Introduction {#introduction .unnumbered}
+Introduction 
 ============
 
 Les grandes histoires sont monnaies courantes sur Terre. Les épopées,
@@ -37,7 +37,7 @@ bibliothèque, qu’ils ont acquis leurs connaissances. Mais ce n’est pas
 tout. Transition est une ville, et ses habitants sont plus étranges les
 uns que les autres...
 
-Note au lecteur {#note-au-lecteur .unnumbered}
+Note au lecteur 
 ---------------
 
 Ce livre est destiné aux maitres de jeu et autres compteurs. Si vous
