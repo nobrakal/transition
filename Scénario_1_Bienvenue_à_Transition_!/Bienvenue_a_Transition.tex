@@ -4,21 +4,28 @@
 \usepackage[french]{babel}
 \usepackage[T1]{fontenc}
 \usepackage[linkcolor=blue, colorlinks=true,]{hyperref}
+\usepackage{xcolor}
 \author{Projet Transition}
 \title{Bienvenue à Transition !}
+\newenvironment{lAbstract}[1]{{[}\textcolor{red}{#1}{]}\itshape}{\\ \\}
 \begin{document}
+
 \maketitle
-\section{Introduction}
-Ce scénario a été écrit dans l'idée de faire découvrir la ville de Transition à l'époque contemporaine. Il est "règles-free", c'est à dire que vous devriez pouvoir l'adapter à presque tous les systèmes de règles qui existent.
-\subsection{Résumé}
-Arnaud Émery, une des petites mains de Newcommen (un agent double auprès de Dicealy) fait des siennes. Par des vols de documents confidentiels, il réussit à se mettre la Digitale à dos. Cette dernière lance une procédure d'interception d'Émery dans le métro parisien et ce dernier, acculé, est obligé de faire appel à des inconnus. Les Dicealy, qui suivent les documents (qui ont une puce GPS), vont vite se rendre compte que ces bleus peuvent les aider dans leur guerre souterraine avec les Newcommen.\\
-Par dessus, Newcommen décide d'éliminer Arnaud (il s'est fait prendre et n'est donc plus sûr, même s'il s'en est réchappé) et le fait tuer.\\
+\begin{abstract}
+Arnaud Émery, une des petites mains de Newcommen fait des siennes. Par des vols de documents confidentiels, il réussit à se mettre la Digitale à dos. Cette dernière lance une procédure d'interception d'Émery dans le métro parisien et ce dernier, acculé, est obligé de faire appel à des inconnus. 
+Quelques temps après, Newcommen décide d'éliminer Arnaud (il s'est fait prendre et n'est donc plus sûr, même s'il s'en est réchappé) et le fait tuer.\\
 Ce dernier, en mourant décide de rapporter les documents à Dicealy et utilise à cette fin les joueurs. Dicealy verront eux une aubaine d'avoir des agents doubles, et chargeront les joueurs d'aller donner les documents eux-mêmes à Newcommen, le tout bardé de quelques senseurs.
-\subsection{Les personnages}
+\end{abstract}
+\section{Introduction}
+Ce scénario a été écrit dans l'idée de faire découvrir la ville de Transition à l'époque contemporaine. Il est "règles-free", c'est à dire que vous devriez pouvoir l'adapter à presque tous les systèmes de règles qui existent. Les caractéristiques et possessions des personnages sont résumés en dernière page.
+
+\subsection*{Les personnages}
 Une bande d'adolescents français fera très bien l'affaire. En réalité, même n'importe quel groupe de personnes ayant une bonne raison de se retrouver dans le métro parisien en soirée peut tout à fait jouer ce scénario.
 
-
 \section{À l'aide!}
+\begin{lAbstract}{Combat}
+Ici les personnages, vont se rendre compte que venir à l'aide du premier venu n'est pas la meilleure chose à faire
+\end{lAbstract}
 Alors que les joueurs sont dans le métro parisien, dans la correspondance entre le métro 1 et le RER A gare de Lyon pour être précis, un soir de peu d'affluence, un homme cours vers eux. Ce  dernier, grand, plutôt mince et vêtu d'un long impair noir a l'air d'avoir peur. Dès qu'il est à porté de voix, il interpelle les joueurs et leur dit:
 \begin{quote}
 S'il vous plait, à l'aide! Je suis poursuivi, des types veulent ma mort! J'ai juste besoin de me cacher parmi vous quelques minutes. S'il vous plait !
@@ -33,6 +40,9 @@ Désolé de vous avoir mis dans l'embarras, mais vous risquez d'avoir des probl�
 Des bruits de pas se font en effet entendre depuis un bout du couloir.
 
 \section{Jackpot ?}
+\begin{lAbstract}{Histoire}
+Ici les personnages vont se rendre compte qu'avoir aidé Arnaud était la pire des idée.
+\end{lAbstract}
 La carte bancaire est une visa gold, sans nom apparent. Le compte qui lui est rattaché est bloqué mais contient 1000 €. La deuxième dois qu'ils s'en servent, un message apparait sur la machine (ou sur le ticket): 
 \begin{quote}
 RDV comme la dernière fois. Urgent. Besoin de votre aide.
@@ -49,12 +59,15 @@ Si nos joueurs sont avides, ils peuvent trouver quelques objets intéressants su
 Nos amis ont en tout cas tout intérêt à déguerpir au plus vite... Car les passants vont sans doute rappliquer et se faire un plaisir d'appeler la police.
 
 \section{"Les tapis d'orient de Montreuil"}
+\begin{lAbstract}{Combat}
+Ici les personnages, croyant bien faire, vont mettre un garde Dicealy en rogne.
+\end{lAbstract}
 Encouragez les joueurs à se poser des questions, même à avoir peur (ils croisent plus de gens en costumes dans la rue par exemple). \\
 Le magasin de tapis ("Les tapis d'orient de Montreuil") ne paye pas de mine, et fais carrément miteux. Un maghrébin à la mine patibulaire tient la boutique. Il s'agit d'un agent local des Dicealy. Les personnages sont libres d'aller soit dans l'arrière boutique directement, soit de parler au tenancier. Dans tous les cas, ce dernier se montrera très soupçonneux (ça n'est pas du tout un bon commercial), et refusera l'accès à l'arrière boutique. S'ils mentionnent le nom de Newcommen, il ira discrètement derrière son comptoir et, croyant bien faire, va enclencher la procédure défense de la boutique.\\
 La porte se referme toute seule, des barres métalliques la protègent. \hyperlink{abdel}{Abdel} (le gérant), sort un fusil mitrailleur:
 \begin{quote}
 Qu'est ce que vous foutez-là ? Vous êtes qui ?!
-\end{quote}
+\end{quote}{]}
 On comprendra qu'il réponde d'une manière assez violente... \\
 S'en suit une petite scène de combat, qui peut vite mal tourner, surtout si les joueurs ne sont pas préparés. Deux solutions sont possibles:
 \begin{itemize}
@@ -66,22 +79,30 @@ Germe alors très vite dans son esprit un plan: Envoyer les joueurs chez Newcomm
 Il passe deux/trois coups de fils et emmène nos joueurs dans un sous-sol d'un immeuble voisin (il leur fait comprendre qu'il serait mal avisé de ne pas le suivre). Il ne répond que très peu aux questions des joueurs, se référant à sa supérieure qui doit leur en dire plus.
 
 \section{Briefing}
-
+\begin{lAbstract}{Découverte}
+Ici les personnages vont découvrir que le monde n'est pa que ce qu'ils connaissent et que des forces plus grandes qu'eux sont en jeu.
+\end{lAbstract}
 Ils se retrouvent devant une entrée de cave. Au moment où Philippe s'approche de la prote, deux hommes surgissent, échangent quelques mots avec ce dernier, et ouvrent la porte. Le sous-sol est un des quartiers généraux de la Digitale et donc est truffé de militaires et de matériel technologique (au mépris des règles de Transition). Philippe guide les joueurs assez profondément jusqu'à une salle d'apparence anodine avec une table au centre. Une belle femme (grande, blonde), Alice Newcommen (assez éloignée de la branche de la famille régnante, mais elle a quand même un certain pouvoir) entre. C'est la supérieure de Philippe, et elle n'a pas l'air de rigoler.\\
-Elle explique aux joueurs ce qui se passe: Des forces plus grandes qu'eux existent et se battent. Newcommen est "attaquée" par Dicealy, et les joueurs en tant qu'inconnus feront de très bonnes taupes. Il leur suffit d'aller à Transition et de se faire recruter chez Dicealy (chose qui devra être facilité aux vues des documents). Alice est plutôt agacée si es joueurs lui posent des questions sur Transition: Cela fait partie de la mission de ne rien savoir; ils n'en seront que plus crédible auprès des recruteurs Dicealy.
+Elle explique aux joueurs ce qui se passe: Des forces plus grandes qu'eux existent et se battent. Newcommen est "attaquée" par Dicealy, et les joueurs en tant qu'inconnus feront de très bonnes taupes. Il leur suffit d'aller à Transition et de se faire recruter chez Dicealy (chose qui devra être facilité aux vues des documents). Cela fait partie de la mission de ne rien savoir; ils n'en seront que plus crédible auprès des recruteurs Dicealy. Bien sûr, ils seront guidés depuis le QG. Leur contact sera Philippe.\\
+C'est une mission à prendre ou... à prendre. Si les personnages refusent, Alice n'hésite pas à les menacer directement.
 \\
-C'est une mission à prendre ou... à prendre. SI les personnages refusent, Alice n'hésite pas à les menacer directement.
 \\
-\\
-Après ce rapide entretien, on leur prends leur vêtements pour quelques "ajouts" (puces GPS haute précision notamment). Pendant ce cours intermède, ils sont conviés à faire quelques tests (un des joueurs apprendra notamment qu'il a un début de cancer à faire soigner assez rapidement, ce que le médecins présent fait très vite au moyen d'un résonateur).
+Après ce rapide entretien, on leur prends leur vêtements pour quelques "ajouts" (puces GPS haute précision notamment). Pendant ce cours intermède, ils sont conviés à faire quelques tests (un des joueurs apprendra notamment qu'il a un début de cancer à faire soigner assez rapidement, ce que le médecin présent fait très vite au moyen d'un résonateur).
 \\
 On leur rend leurs vêtements une petite demie-heure plus tard, ainsi qu'un plan touristique de Paris. Le passage de Beaujolais est soulignés, et on leur explique qu'il faudra aller dans les toilettes du restaurant de ce passage.
+
 \section{Newcommen nous voici}
-Direc
+\begin{lAbstract}{Découverte}
 Ici les personnages vont se faire recruter chez les Newcommen, sur ordre des Dicealy afin des les infiltrer.
+\end{lAbstract}
+Direction donc le passage de Beaujolais, près du Palais-Royal. Le restaurant est d'un standing moyen, personne ne fera de problème pour entrer. C'est une porte sous contrôle des néophytes, ils ne feront donc aucun commentaires si les personnages commandent et prennent la porte des toilettes.
 
 \section{Abandon}
-Les Dicealy vont abandonner leurs nouveaux "amis" et les sacrifier pour leur guerre contre Newcommen. Comment vont réagir les joueurs ?
+\begin{lAbstract}{Réflexion}
+Les Dicealy vont abandonner leurs nouveaux "amis" et les sacrifier pour leur guerre contre Newcommen.
+\end{lAbstract}
+
+ Comment vont réagir les joueurs ?
 \newpage
 \section*{Les personnages non-joueurs}
 \hypertarget{arnaud}{\paragraph{Arnaud}} Agent double Newcommen/Dicealy\\ \\
